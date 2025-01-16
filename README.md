@@ -22,7 +22,7 @@ The project aims to predict earthquake severity levels using data from the Nepal
 - **`models/`**: Stores trained AI and OLS models.
 - **`code/`**: Python scripts for data preprocessing, model training, and evaluation.
 - **`docker/`**: Dockerfiles and related configurations.
-- **`documentation/`**: Course-related documentation and the final team report.
+- **`documentation/`**: Course-related documentation and the final team report..
 - **`images/`**: Example Docker images for the project.
 - **`scenarios/`**: Sample `docker-compose.yml` files for integrating AI models and data processing.
 
